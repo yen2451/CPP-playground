@@ -1,0 +1,41 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "includePath": [
+                "${workspaceFolder}",
+                "C:\\MinGW\\include",
+                "C:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include",
+                "C:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++",
+                "C:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\tr1",
+                "C:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\mingw32",
+                "C:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\mingw32\\bits"
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "__GNUC__=5",
+                "__cdecl=__attribute__((__cdecl__))"
+            ],
+            "compilerPath": "C:\\Program Files\\LLVM\\bin\\clang.exe",
+            "cStandard": "c11",
+            "cppStandard": "c++17",
+            "intelliSenseMode": "clang-x64",
+            "browse": {
+                "path": [
+                    "${workspaceRoot}",
+                    "C:\\MinGW\\include",
+                    "C:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include",
+                    "C:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++",
+                    "C:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\tr1",
+                    "C:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\mingw32",
+                    "C:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\mingw32\\bits"
+                    
+                ],
+                "databaseFilename": "",
+                "limitSymbolsToIncludedHeaders": true
+            }
+        }
+    ],
+    "version": 4
+}
